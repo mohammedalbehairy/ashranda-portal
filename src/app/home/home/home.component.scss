@@ -394,6 +394,21 @@
     }
   }
 
+  .fixed-footer {
+    background: #E8EDFF;
+
+    p {
+      text-align: center;
+      margin: 12px 0;
+      font-family: OpenSans;
+      font-size: 12px;
+      line-height: 14px;
+      text-align: center;
+      letter-spacing: -0.3px;
+      color: #13286D;
+    }
+  }
+
   .scroll-up {
     position: absolute;
     bottom: 70px;
